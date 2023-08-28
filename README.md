@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/anushka-biswas-b68b86217/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.instagram.com/_._anushkaa._._/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=purple" alt="Instagram Badge"/>
+  </a>
 </div>
 <div id="badge" align="center">
 <img src="https://komarev.com/ghpvc/?username=anushhkaaa&style=flat-square&color=green" alt="" align="center"/>
